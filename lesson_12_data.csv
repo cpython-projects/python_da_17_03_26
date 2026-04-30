@@ -1,0 +1,13 @@
+,ID,Name,gender,Age,Salary ($),Hire Date,Country,Weight
+0,1,Alice,F,25,50000.0,2023-01-10,USA,70kg
+1,2,  Bob  ,M,Thirty,60000.0,2022-12-05,U.S.A.,154lbs
+2,3,CHARLIE,M,40,,01/15/2021,UK,65kg
+3,4,Dave,M,22,70000.0,"March 1, 2020",United Kingdom,140lbs
+4,5,Eve,F,,80000.0,2021-07-20,canada,75kg
+5,6,Frank,M,35,120000.0,08/10/2019,Canada,165lbs
+6,7,George,M,29,,2020-05-30,Germany,80kg
+7,8,Hannah,F,33,150000.0,"July 4, 2018",France,180lbs
+8,9,Isaac,M,45,200000.0,06-01-2017,France,90kg
+9,10,Jack,M,Twenty,250000.0,2016-09-15,Brazil,200lbs
+10,5,Eve,F,,80000.0,2021-07-20,canada,75kg
+11,6,Frank,M,35,120000.0,08/10/2019,Canada,165lbs
